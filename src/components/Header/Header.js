@@ -38,13 +38,13 @@ const Header = () => (
 
     {/* Social Icons */}
     <Div3>
-      <SocialIcons href="https://github.com">
+      <SocialIcons href="https://github.com/Dianawats">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://linkedin.com">
+      <SocialIcons href="www.linkedin.com/in/diana-n-55ab47ba">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://instagram.com">
+      <SocialIcons href="https://instagram.com/dianeworld_">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
     </Div3>
